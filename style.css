@@ -1,0 +1,48 @@
+
+h2{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-image:  linear-gradient(to right,rgb(207, 68, 91),rgb(85, 1, 85));;
+}
+
+.box {
+    background-image:linear-gradient(rgb(219, 209, 223),rgb(248, 178, 246));
+    padding: 50px 30px;
+    border: 1.5px solid #131212;
+    border-radius: 0.25em;
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
+    height: 400px;
+    box-align: center;
+    padding:10px;
+    width: 50%;
+    margin:auto;
+}
+#QR_Reading {
+	padding: 20px ;
+	border: 1.5px solid #b2b2b2 ;
+	border-radius: 8px;
+}
+#QR_Reading img{
+    width: 70px ;
+	height: 100px ;
+}
+button:hover {
+	background-color: #c483f0;
+}
+button {
+	padding: 10px 20px;
+	border: 1px solid #b2b2b2;
+	
+	border-radius: 0.25em;
+	color: rgb(20, 1, 1);
+	font-size: 20px;
+	cursor: pointer;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	background-color: #ecc725ad;
+    font-style: italic;
+	
+}
